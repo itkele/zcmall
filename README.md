@@ -1,4 +1,4 @@
 zcmall
 ======
 
-zcmall - php based mall
+zcmall
